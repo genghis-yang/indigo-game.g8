@@ -1,3 +1,5 @@
+# Indigo Game Template [![Build Status](https://travis-ci.org/genghis-yang/indigo-game.g8.svg?branch=master)](https://travis-ci.org/genghis-yang/indigo-game.g8)
+
 A [Giter8][g8] template for Indigo game!
 
 Usage
